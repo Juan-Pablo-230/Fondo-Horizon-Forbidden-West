@@ -1,0 +1,121 @@
+        
+                 ____                          _______   __ 
+                / __ \                        / ____\ \ / /
+               | |  | |_ __   ___ _ __ __ _  | |  __ \ V / 
+               | |  | | '_ \ / _ \ '__/ _` | | | |_ | > <  
+               | |__| | |_) |  __/ | | (_| | | |__| |/ . \ 
+                \____/| .__/ \___|_|  \__,_|  \_____/_/ \_\
+                      | |                                  
+                      |_|                                  
+ 
+                                           
+ ____                  _     _   _         
+|    \ ___ ___ ___ ___|_|___| |_|_|___ ___ 
+|  |  | -_|_ -|  _|  _| | . |  _| | . |   |
+|____/|___|___|___|_| |_|  _|_| |_|___|_|_|
+                        |_|                
+...............................................................................
+
+Español:
+Este mod se encarga de adaptar el Navegador Opera GX con la apariencia del juego Horizon Forbidden West, al ver que no había mods que hicieran eso, me propuse armar uno de ese estilo. Cualquier error o sugerencia, son bienvenidas
+Este mod se realizo con fines de entretenimiento y todavía esta en fase de pruebas, cualquier error o sugerencias son bienvenidas.
+
+English:
+This mod is responsible for adapting the Opera GX Browser to the appearance of the game Horizon Forbidden West, seeing that there were no mods that did that, I decided to create one of that style. Any errors or suggestions are welcome
+This mod was made for entertainment purposes and is still in the testing phase, any errors or suggestions are welcome.
+
+ _____           _ _ _       
+|     |___ ___ _| |_| |_ ___ 
+|   --|  _| -_| . | |  _|_ -|
+|_____|_| |___|___|_|_| |___|
+...............................................................................
+
+Juan_Pablo_230
+                                                              
+ __    _                         
+|  |  |_|___ ___ ___ ___ ___ ___ 
+|  |__| |  _| -_|   |  _| -_|_ -|
+|_____|_|___|___|_|_|___|___|___|
+...............................................................................
+               
+Español:
+Tanto las imágenes como los archivos de audio son propiedad de Guerrilla Games y PlayStation Studios.
+
+English:
+Both images and audio files are property of Guerrilla Games and PlayStation Studios.
+
+ _____ _       ___ ___ 
+|   __| |_ _ _|  _|  _|
+|__   |  _| | |  _|  _|
+|_____|_| |___|_| |_|  
+...............................................................................
+                       
+Español:
+El contenido se realizo solo con fines de entretenimiento y para uso personal.
+Consulta todos los mods armados por el equipo en https://store.gx.me/studios/84357b75-be7b-439d-b98b-aaaf13ad44ee/
+
+English:
+The content is made for entertainment purposes only and for personal use.
+Check out all the mods put together by the team at https://store.gx.me/studios/84357b75-be7b-439d-b98b-aaaf13ad44ee/
+
+
+...............................................................................
+Novedades de la versión 3.1.2:
+- Se corrigió un error en los iconos, Opera antes no tenia problema en aceptar iconos de 32x32, pero ahora solicita 19x19 y ya se cumple la normativa.
+- El mod ya se encuentra publicado en Github https://github.com/Juan-Pablo-230/Fondo-Horizon-Forbidden-West.git
+
+What's new in version 3.1.2:
+
+- Fixed an icon bug. Opera previously had no problem accepting 32x32 icons, but now requires 19x19, which complies with the regulations.
+- The mod is now published on Github https://github.com/Juan-Pablo-230/Fondo-Horizon-Forbidden-West.git
+...............................................................................
+Novedades de la versión 3.1.1:
+
+- Estoy intentando corregir un error que hace que el navegador desactive el mod al actualizarse y al activarlo manualmente, varias funciones de la versión 3.1 no funcionen, desconozco la razón de porque ocurre esto.
+- La versión "3.1" seria la versión "3.0" del mod, pero debido a un error en la pagina de "gx.store" tuve que cargarlo de esta forma.
+
+
+What's new in version 3.1.1:
+
+- I'm trying to fix a bug that causes the browser to disable the mod when updating and when manually activating it, several functions of version 3.1 do not work, I don't know the reason why this happens.
+- Version "3.1" would be version "3.0" of the mod, but due to an error on the "gx.store" page I had to load it this way.
+
+-----------------------------------
+Novedades de la versión 3.1:
+
+- El icono de GX Cleaner se actualiza al signo "+", haciendo referencia a las curaciones del juego.
+- El icono del navegador se actualiza a una "O" (Similar al del navegador original), pero con el color característico del juego.
+- Se implemento una pantalla de bienvenida adaptada al juego, esta la veras si o si al actualizar el navegador, o también si activas la opción "Pantalla de bienvenida al iniciar".
+- Se modifico la fuente de letras del navegador, utilizando en este momento la "SSTJpCondPro-Regular" proporcionada por el mismo juego.
+- Se elimino en gran parte la opacidad de la barra latera y superior, permitiendo ver el fondo de pantalla en su totalidad.
+- Se implementaron cuatro stickers para utilizar dentro del navegador, a medida que el mod se vaya actualizando, esta cantidad ira en aumento, esta función solo esta disponible en "Opera GX Android".
+- Se corrigieron pequeños errores ortográficos.
+- Se actualizaron los fondos de pantalla de ambos temas.
+- Los fondos de pantalla ahora están adaptados para 2Opera GX Mobile"
+
+
+What's new in version 3.1:
+
+- The GX Cleaner icon is updated to a "+" sign, referring to the game's healing.
+- The browser icon is updated to an "O" (similar to the original browser), but with the game's characteristic color.
+- A welcome screen adapted to the game has been implemented, which you will see when you update the browser, or also if you activate the "Welcome screen on startup" option.
+- The browser's font has been modified, currently using the "SSTJpCondPro-Regular" provided by the game itself.
+- The opacity of the side and top bar has been largely removed, allowing the wallpaper to be seen in its entirety.
+- Four stickers have been implemented to be used within the browser, as the mod is updated, this number will increase, this function is only available in "Opera GX Android".
+- Minor spelling mistakes have been corrected.
+- The wallpapers of both themes have been updated.
+- Wallpapers are now adapted for 2Opera GX Mobile"
+
+-----------------------------------
+Novedades de la versión 2.1:
+
+- Se agrego la canción "Riddles in Ruins" al audio que se escucha de fondo en el navegador.
+- Se actualizo el formato de compresión del audio que se escucha de fondo en el navegador, pasando de 128kbps a 256kbps.
+- Se actualizo la paleta de colores, pasando del código de color "#C77700" al "#E18433". Este cambio solo se vera reflejado si utilizas el navegador en modo claro.
+
+
+What's new in version 2.1:
+
+- The song "Riddles in Ruins" has been added to the audio that plays in the background of the browser.
+- The compression format of the audio that plays in the background of the browser has been updated, going from 128kbps to 256kbps.
+- The color palette has been updated, going from the color code "#C77700" to "#E18433". This change will only be reflected if you use the browser in light mode.
